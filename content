@@ -1,12 +1,22 @@
 {
-    "abhyudaya 8.0": {
+    "abhyuday 8.0": {
     "date": "19th and 20th April, 2024",
-    "department": "Department of MCA",
+    "department": [
+	"Department of MCA",
+	"MCA Department is in Apex Block 2nd Floor",
+	"Auditorium is in the 7th Floor of the Apex Block where both inauguration and Valedictory will take place",
+	],
     "event_name": "abhyuday 8.0",
     "website": "https://abhyuday2k24.tech/",
     "email": "info@abhyuday2k24.tech",
+    "sponsorship_tiers": [
+      {"Tier 1": "5k", "Benefits": "Promotion on social Media, Logo On Website"},
+      {"Tier 2": "10k" , "Benefits": "Promotion on social Media, Logo On Website, Vendor Space allotment, Logo on Banner"},
+      {"Tier 3": "15k or Above", "Benefits": "Promotion on social Media, Logo On Website, Vendor Space allotment, Logo on Banner"}
+    ],
     "event_location": "MSRIT campus, Bengaluru, Karnataka",
     "location_link" : "https://maps.app.goo.gl/Qq7G1VhpJmwUWsvH7"
+    "event_description": "Sponsoring an IT event can be a smart investment for your business. By Sponsoring Abhyuday you are opening doors to a galaxy of enthusiasts coming from different parts of the city and state. So if you are looking for ways to reach a highly targeted audience and gain a competitive edge in the IT industry, sponsoring an IT event could be a great strategy to consider. Your support will benefit your own organization in several ways.",
     "about_institute": {
       "name": "M. S. Ramaiah Institute of Technology",
       "founded_by": "M. S. Ramaiah",
@@ -42,69 +52,126 @@
     "Use of mobile phones or other electronic media will not be permitted. Any participant/s engaging in practices that violate the rules of the events or engages in malpractice shall be disqualified.",
     "It is advisable for every participant to participate in 1 event only, to avoid clashes of event timing. They are always free to participate in other events if they are disqualified for the next round, and the schedule suits their participation."
   ],
+"student coordinators":["Pavan R Shetty","Suraj C Gowda","Tarushi","Mohammed Kaif"],
   "Under Graduate Events": {
-    "Coding - OtakuKodingu": {
+    "Coding(UG) - OtakuKodingu": {
       "Number of Participants": 2,
       "Number Of Rounds": 3,
       "Knowledge of programming language": "C++, JAVA, C, Python. Any one of them is mandatory",
+	"location":{
+		  "Day 1": "Lab 1(Apex Block)",
+		  "Day 2": "Lab 1(Apex Block)"
+		   },
+	"Time":{
+		"Day 1": "2:00 pm to 4:30 pm",
+		"Day 2": "9:00 am to 11:00 am"},
       "Participants need not carry their laptop.",
       "Event Coordinator": "Komal - 8971731395"
     },
-    "Web Designing – Dev Sensei": {
+    "Web Designing(UG) – Dev Sensei": {
       "Type": "Individual event",
       "Number Of Rounds": 3,
       "Specific time limit for each round": true,
       "Mandatory Knowledge": "HTML, CSS, and JavaScript",
+	"location":{
+		  "Day 1": "Lab 3(ESB Block)",
+		  "Day 2": "Lab 3(ESB Block)"
+		   },
+	"Time":{
+		"Day 1": "11:00 am to 1 :30 pm",
+		"Day 2": "9:00 am to 12:00 pm"},
       "Participants need not carry their laptop.",
       "Event Coordinator": "Sanjay Gouda – 8088827300"
     },
-    "Quiz – Quizu Matsuri": {
+    "Quiz(UG) – Quizu Matsuri": {
       "No. of participant per team": 2,
       "Number Of Rounds": 3,
       "Specific time limit for each round": true,
       "Mandatory Knowledge": "Programming languages, Operating system, DSA, Networking, Information Security and related subjects.",
+	"location":{
+		  "Day 1": "Lab 2(Apex Block)",
+		  "Day 2": "Lab 2(Apex Block)"
+		   },
+	"Time":{
+		"Day 1": "11:00 am to 1 :30 pm",
+		"Day 2": "9:00 am to 11:00 am"},
       "Participants need not carry their laptop.",
       "Event Coordinator": "Akash Kotharkar - 6362916626"
     }
   },
   "Post Graduate Events": {
-    "Coding - Akira's CodeCon": {
+    "Coding(PG) - Akira's CodeCon": {
       "Number of participants": 2,
       "Number Of Rounds": 3,
       "Knowledge of programming Language": "C++, JAVA, Python is mandatory",
+	"location":{
+		  "Day 1": "Lab 1(Apex Block)",
+		  "Day 2": "Lab 1(Apex Block)"
+		   },
+	"Time":{
+		"Day 1": "11:00 am to 1 :30 pm",
+		"Day 2": 11:00 am to 1:00 pm"},
       "Participants need not carry their laptop.",
       "Event Coordinator": "Karan – 8147147632"
     },
-    "Web Designing": {
+    "Web Designing(PG) - Web Sozo": {
       "Type": "Individual event",
       "Number Of Rounds": 3,
       "Specific time limit for each round": true,
       "Mandatory Knowledge": "HTML, CSS, and JavaScript, one of the backend frameworks (NodeJS, Django, PHP, Flask, Ruby on Rails, ASP.NET) and RDBMS databases.",
+	"location":{
+		  "Day 1": "Lab 4(Apex Block)",
+		  "Day 2": "Lab 4(Apex Block)"
+		   },
+	"Time":{
+		"Day 1": "11:00 am to 1 :30 pm",
+		"Day 2": "10:00 am to 1:00 pm"},
       "Participants need not carry their laptop.",
       "Event Coordinator": "Shreelakshmi Hegde-9964300914"
     },
-    "Quiz - Quizno Sama": {
+    "Quiz(PG) - Chisiki Test": {
       "No. of participant per team": 2,
       "Number Of Rounds": 3,
+	"location":{
+		  "Day 1": "Lab 2(Apex Block)",
+		  "Day 2": "Lab 2(Apex Block)"
+		   },
+	"Time":{
+		"Day 1": "1:30 pm to 4:30 pm",
+		"Day 2": "11:00 am to 1:00 pm"},
       "Specific time limit for each round": true,
       "Mandatory Knowledge": "Programming languages, Operating system, DSA, Networking, Information Security, Machine learning and related subjects.",
       "Event Coordinator": "Saniya Farheen – 8431801007"
     }
   },
   "Common Events": {
-    "IT Manager – lain iwakura": {
+    "IT Manager – Kibutsuji's mugen jo": {
       "Type": "Individual event",
       "Restrictions": "IT manager participants are restricted from participating in any other event.",
+	"location":{
+		  "Day 1": "Hi-Tech Seminar Hall(DES Block)",
+		  "Day 2": "Hi-Tech Seminar Hall(DES Block)"
+		   },
+	"Time":{
+		"Day 1": "11:00 am to 4:30 pm",
+		"Day 2": "9:30 am to 1:00 pm"},
       "Disqualification": "Disqualified participants are not owed any explanation.",
       "Mandatory Adherence": "Adherence to these rules is mandatory.",
+	"location":"",
       "Non-compliance": "Non-compliance may result in disqualification."
-    "Event coordinator": "Ashish Periyat - 9480774010"
     },
-    "Photography – kodaka Hasegawa": {
+    "Photography – Studio Gibli's Gaze": {
       "Type": "Individual event",
       "Number of rounds": 3,
       "Photo Criteria": "All photos submitted to this contest must be taken within the campus",
       "Modification Restrictions": "Modification other than basic adjustment such as cropping, brightness and contrast are not allowed",
+	"location":{
+		  "Day 1": "AB 402(APEX Block)",
+		  "Day 2": "LAB 4(APEX Block)"
+		   },
+	"Time":{
+		"Day 1": "11:00 am to 4:30 pm",
+		"Day 2": "9:00 am to 1:00 pm"},
       "Participant Equipment": "Any electronic device required should be brought by the participant.",
       "Event Coordinator": "Sagar M S - 9108911351"
     },
@@ -112,6 +179,11 @@
       "No. of participant per team": 3,
       "Number of rounds": 2,
       "Restrictions": "Participants are not allowed to search for clues in off-limit areas.",
+	"location":{
+		  "Day 2": "AB 411(APEX Block)"
+		   },
+	"Time":{
+		"Day 2": "9:00 am to 1:00 pm"},
       "Prohibited Device": "Smart Phones are not allowed.",
       "Event Coordinator": "Rakshitha- 7619386126"
     },
@@ -120,7 +192,13 @@
       "Number of matches": 5,
       "Wifi": "Wifi will be provided by the college.",
       "Device Requirement": "Each player should have their own device",
-      "Location": "Each player should play the game in the college where the event is organized",
+      "location":{
+		  "Day 1": "SPDC(APEX Block)",
+		  "Day 2": "SPDC(APEX Block)"
+		   },
+	"Time":{
+		"Day 1": "11:00 am to 4:30 pm",
+		"Day 2": "9:00 am to 12:00 pm"},
       "Name Consistency": "All the IG names (In Game Names) should match with the names given during registration",
       "Screenshot Requirement": "A member of the team should take screenshots after every match or else points will not be added",
       "Preparation": "Player Should download all the maps and Resource pack prior",
@@ -131,6 +209,13 @@
       "No. of participants per team": 2,
       "Number of rounds": 3,
       "Event Details": "Event details will be explained on the day of the event.",
+	"location":{
+		  "Day 	1": "AB 411(APEX Block)",
+		  "Day 2": "AB 411(APEX Block)"
+		   },
+	"Time":{
+		"Day 1": "11:00 am to 4:30 pm",
+		"Day 2": "9:00 am to 12:30 pm"},
       "Challenge": "“Prepare yourself to Hunt or be Hunted”",
       "Event Coordinator": "Charan P (9481200925)"
     }
