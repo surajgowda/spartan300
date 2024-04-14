@@ -5,14 +5,8 @@
     "event_name": "abhyuday 8.0",
     "website": "https://abhyuday2k24.tech/",
     "email": "info@abhyuday2k24.tech",
-    "sponsorship_tiers": [
-      {"Tier 1": "5k", "Benefits": "Promotion on social Media, Logo On Website"},
-      {"Tier 2": "10k" , "Benefits": "Promotion on social Media, Logo On Website, Vendor Space allotment, Logo on Banner"},
-      {"Tier 3": "15k or Above", "Benefits": "Promotion on social Media, Logo On Website, Vendor Space allotment, Logo on Banner"}
-    ],
     "event_location": "MSRIT campus, Bengaluru, Karnataka",
     "location_link" : "https://maps.app.goo.gl/Qq7G1VhpJmwUWsvH7"
-    "event_description": "Sponsoring an IT event can be a smart investment for your business. By Sponsoring Abhyuday you are opening doors to a galaxy of enthusiasts coming from different parts of the city and state. So if you are looking for ways to reach a highly targeted audience and gain a competitive edge in the IT industry, sponsoring an IT event could be a great strategy to consider. Your support will benefit your own organization in several ways.",
     "about_institute": {
       "name": "M. S. Ramaiah Institute of Technology",
       "founded_by": "M. S. Ramaiah",
@@ -104,6 +98,7 @@
       "Disqualification": "Disqualified participants are not owed any explanation.",
       "Mandatory Adherence": "Adherence to these rules is mandatory.",
       "Non-compliance": "Non-compliance may result in disqualification."
+    "Event coordinator": "Ashish Periyat - 9480774010"
     },
     "Photography – kodaka Hasegawa": {
       "Type": "Individual event",
